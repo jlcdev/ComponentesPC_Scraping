@@ -31,7 +31,7 @@ python src-Python/scrap_pcc.py -stu 0.25  -nsc 500 -pi 0  -nd dataset_pccomponen
 ### Para realizar webscraping sobre PcBox:
 #### Ejemplo de uso normal
 ```
-python webScrapingPcBox.py
+python src-Python/webScrapingPcBox.py
 ```
 *** NOTA: Toda la configuración se realiza mediante el fichero **properties.config**. ***
 
