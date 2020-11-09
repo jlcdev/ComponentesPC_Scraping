@@ -6,7 +6,7 @@ Este proyecto se ha realizado como un trabajo práctico WEB SCRAPING en el ámbi
 ## Miembros del equipo
 
 * Javier López Calderón
-* José María Cano Hernández
+* José María Cano Hernández - https://github.com/jcanoh/ComponentesPC_Scraping
 
 ## Contenido del repositorio
 
