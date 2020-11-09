@@ -34,3 +34,5 @@ python src-Python/scrap_pcc.py -stu 0.25  -nsc 500 -pi 0  -nd dataset_pccomponen
 python webScrapingPcBox.py
 ```
 *** NOTA: Toda la configuración se realiza mediante el fichero **properties.config**. ***
+
+## Más información disponible en la Wiki del proyecto.
